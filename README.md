@@ -3,4 +3,4 @@
 
 Hi folks!
 
-I'm ralf,  i really want to know programming and front end dev. thats why im here.
+I'm ralf,  I really want to know programming and Full-stack dev. Thats why Im here.
